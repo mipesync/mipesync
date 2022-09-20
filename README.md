@@ -22,6 +22,6 @@
 ### Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=mipesync&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=mipesync)
