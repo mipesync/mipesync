@@ -1,6 +1,6 @@
 ![MipeSync](https://github.com/mipesync/mipesync/blob/main/src/MipeHeader.jpg)
 
-## ℍ𝕚, 𝕀'𝕞 [𝔸𝕣𝕜𝕒𝕕𝕪 𝕒𝕜𝕒 𝕄𝕚𝕡𝕖𝕊𝕪𝕟𝕔](https://instagram.com/a.r.ka.d.y)
+## ℍ𝕚, 𝕀'𝕞 𝔸𝕣𝕜𝕒𝕕𝕪 𝕒𝕜𝕒 𝕄𝕚𝕡𝕖𝕊𝕪𝕟𝕔
 ### About me
 - 👋 Student from Russia, .NET Backend Developer
 - 👀 I’m interested in music, programming, fitness and more
@@ -9,7 +9,6 @@
 
 ### 📫 Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/om_nom_mfc)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/a.r.ka.d.y)
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9Bk58pSDep)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhe414@gmail.com?subject=[GitHub])
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79534331282?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B)
