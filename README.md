@@ -4,7 +4,7 @@
 ### About me
 - 👋 Student from Russia, .NET Backend Developer
 - 👀 I’m interested in music, programming, fitness and more
-- 🌱 I'm studying at the university to be a programmer
+- 🌱 I study at the university
 - 💞️ I’m looking to collaborate with a company in which I can realize myself and my ideas
 
 ### 📫 Contact me:
