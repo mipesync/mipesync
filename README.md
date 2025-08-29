@@ -37,7 +37,4 @@
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipesync&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### The snake is eating my contributions 😡😡😡
-![snake gif](https://github.com/mipesync/mipesync/blob/output/github-contribution-grid-snake.svg)
-
 ![](https://komarev.com/ghpvc/?username=mipesync)
