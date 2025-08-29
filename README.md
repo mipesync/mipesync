@@ -32,7 +32,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mipesync&theme=tokyonight)
 
 ### 🏺 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=mipesync&theme=tokyonight&no-frame=true&colomn=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mipesync&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mipesync&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
